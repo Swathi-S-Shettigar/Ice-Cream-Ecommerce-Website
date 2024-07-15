@@ -39,6 +39,10 @@ The Ice Cream E-commerce Website is a user-friendly platform for purchasing a va
      
   6) Browse products, add them to your cart, and proceed to checkout.
 
+**Demo vedio**
+
+
+
 **Output**
 
 **user page**
